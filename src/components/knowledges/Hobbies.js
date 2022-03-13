@@ -11,11 +11,11 @@ const Hobbies = () => {
                     </li>
                     <li className="hobby">
                     <i className="fas fa-running"></i>
-                    <span>Course à pied</span>
+                    <span>Running</span>
                     </li>
                     <li className="hobby">
                     <i className="fas fa-seedling"></i>
-                    <span>Piscine</span>
+                    <span>Swimming-pool</span>
                     </li>
             </ul>
         </div>

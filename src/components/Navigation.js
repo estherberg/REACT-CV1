@@ -50,12 +50,12 @@ const Navigation = () => {
           <li>
             <a href="https://wa.me/+33695443075" target="_blank" rel="noopener noreferrer"> <i className="fab fa-whatsapp"></i></a>
           </li>
-          <li>
+          {/* <li>
             <a href="https://www.google.com" target="_blank" rel="noopener noreferrer"> <i className="fab fa-codepen"></i></a>
-          </li>
+          </li> */}
         </ul>
         <div className="signature">
-          <p>EstherBergman - 2021</p>
+          <p>EstherBergman - 2022</p>
         </div>
       </div>
     </div>

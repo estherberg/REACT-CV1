@@ -18,7 +18,7 @@ const Contact = () => {
                             
                             <li>
                                 <i className='fas fa-mobile-alt'></i>
-                                <CopyToClipboard text="0695443075"><span className='clickInput' onClick={()=> {alert('Téléphone copié !');}}>0695443075</span></CopyToClipboard>
+                                <CopyToClipboard text="0033695443075"><span className='clickInput' onClick={()=> {alert('Téléphone copié !');}}>0033695443075</span></CopyToClipboard>
                                                             </li>
                                                                                   
                                                             <li>
@@ -42,10 +42,10 @@ const Contact = () => {
                                     <h4>whatsapp</h4>
                                     <i className='fab fa-whatsapp'></i>
                                     </a>
-                                    <a href='http://www.google.com' target="_blank" rel="noopener noreferrer">
+                                    {/* <a href='http://www.google.com' target="_blank" rel="noopener noreferrer">
                                     <h4>CodePen</h4>
                                     <i className='fab fa-codepen'></i>
-                                    </a>
+                                    </a> */}
                             </ul>
                             
                             </div>
